@@ -1,0 +1,206 @@
+.leftbox
+{
+    background-color: rgb(37, 34, 34);
+    margin: 10px;
+    border: 2px;
+    border-radius: 10px;
+    border: 2px solid rgba(16, 184, 105, 0.623);
+}
+
+.titlebox
+{
+    border-bottom: 2px solid rgba(16, 184, 105, 0.623);
+    min-height: 36px;
+}
+
+.titlelabel
+{
+    font-size: 28px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: orange;
+    padding: 0px;
+    margin: 8px;
+}
+
+.addbutton
+{
+    background: none;
+    border: none;
+    padding: 0px;
+    margin-right: 8px;
+}
+
+.listbox
+{
+    margin: 6px;
+    background-color: rgb(43, 44, 46);
+    border-radius: 10px;
+}
+
+
+.homepage
+{
+    margin: 10px;
+    border: 2px solid rgb(11, 204, 204);
+    border-radius: 10px;
+}
+
+.contactbutton
+{
+    margin: 6px;
+    margin-top: 6px;
+    margin-bottom: 0px;
+    background-image: image(rgb(37, 34, 34));
+    border-radius: 10px;
+    min-height: 40px;
+    border-bottom: 1px solid white;
+    border-right: 1px solid white;
+}
+
+.contactbutton:hover
+{
+    background-image: image(rgba(28, 91, 172, 0.199));
+    border-bottom: 1px solid rgb(0, 245, 245);
+    border-right: 1px solid rgb(0, 245, 245);
+}
+
+.contactbutton:active
+{
+    background-image: image(rgb(43, 39, 39));
+    border-bottom: 1px solid transparent;
+    border-right: 1px solid transparent;
+}
+
+.contacttitle
+{
+    margin: 8px;
+    font-size: 14px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+
+
+.headerinfo
+{
+    min-height: 160px;
+    margin: 8px;
+    border-radius: 10px;
+    background-color: rgb(32, 30, 30);
+}
+
+.headername
+{
+    margin: 8px;
+    margin-left: 40px;
+    font-size: 48px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(238, 147, 44);
+}
+
+.infobox
+{
+    min-height: 32px;
+    margin: 8px;
+    margin-bottom: 0px;
+    border-radius: 10px;
+    background-color: rgb(32, 30, 30);
+}
+
+.infolabel
+{
+    margin: 8px;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(179, 255, 0);
+}
+
+.infodata
+{
+    font-size: 16px;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(255, 255, 255);
+}
+
+
+.addinfobox
+{
+    margin: 8px;
+    margin-bottom: 0px;
+    border-bottom: 2px solid rgb(0, 150, 250);
+    padding: 4px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.entrylabel
+{
+    color: rgb(255, 136, 0);
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
+
+.entrywidget
+{
+    border-right: 1px solid rgb(255, 255, 0);
+    border-bottom: 1px solid rgb(255, 255, 0);
+    background-color: rgb(38, 39, 41);
+}
+
+.savenewcontactbutton
+{
+    background-image: none;
+    background-color: green;
+    font-weight: bold;
+    margin: 8px;
+}
+
+.savenewcontactbutton:hover
+{
+    background-color: rgb(3, 185, 3);
+}
+
+.savenewcontactbutton:active
+{
+    background-color: green;
+}
+
+.addcontactbox
+{
+    border: none;
+    border-bottom: 2px solid cyan;
+}
+
+.addcontactheader
+{
+    margin: 4px;
+    padding: 4px;
+    padding-right: 10px;
+    padding-left: 10px;
+    color: greenyellow;
+    font-size: 28px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+.removecontactbutton
+{
+    background-image: none;
+    background-color: rgb(187, 46, 46);
+    font-weight: bold;
+    margin: 8px;
+}
+
+.removecontactbutton:hover
+{
+    background-color: rgb(219, 35, 35);
+}
+
+.removecontactbutton:active
+{
+    background-color: rgb(187, 46, 46);
+}

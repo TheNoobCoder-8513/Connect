@@ -1,0 +1,6 @@
+Anshuman Kumar;9905807549;9905807549;22.12.2005;anshumankumar8513@gmail.com;Address;Weblink
+Vishal Kumar;9142660283;9142660283;10.01.2000;vishalkumar3240@gmail.com;Chandpur, PO-Gogri, Khagaria;www.myjio.com
+Ankita Tiwari;9560429480;9560429480;19.9.2004;ankitatiwari192@gmail.com;NSEZ, Noida, UP;Devi Ji
+Abhijeet Verma;8218776459;8218776459;10.2.2002;abhijeet851203verma@gmail.com;G.B. Nagar, Noida;LOL LOL
+Abhishek Kumar;8868092023;8868092023;23.10.2000;abhishekkumar345@gmail.com;C-263, Inder Enclave, Nangloi, 110086;Tecorb Technologies Employee
+Pinkesh Kumar;8705698113;8705698113;19.6.1996;pinkeshkumartcd1336@gmail.com;C-263, Inder Enclave, Phase-II, Nangloi, Delhi, 110086;SKETS STUDIOS, S.cube Homes
