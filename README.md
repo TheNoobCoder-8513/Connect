@@ -9,18 +9,18 @@ It is a part of my learning journey of popular UI library for C GUI development,
   
   
 Connect uses GTK-4 library and other normal pre-installed C header files as dependency.  
-You could install gtk4 ackage from your OS's repective package manager.  
+You could install gtk4 package from your OS's repective package manager.  
 The data is stored in text files being present inside "data" folder. It uses pointers and changes data on-the-go.   
   
 Current functionaity provided are :  
-      -  Mainly a GUI.  
-      -  Add and Remove Contacts functions.  
-      -  Various fields to add different details separately.  
+-  Mainly a GUI.  
+-  Add and Remove Contacts functions.  
+-  Various fields to add different details separately.  
   
 Functionality to further add/improve :  
-      -  UI Improvements.  
-      -  Ability to add profile pictures.  
-      -  Addition of more fields.  
-      -  Adding book mechanism for storing diferent lists.  
+-  UI Improvements.  
+-  Ability to add profile pictures.  
+-  Addition of more fields.  
+-  Adding book mechanism for storing diferent lists.  
     
 See U Soon.  
