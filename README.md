@@ -1,3 +1,5 @@
+## Connect
+
 Connect is a GUI phonebook app, made for linux Opearting systems, which can be used to store details about your contacts seamlessly.  
   
 The project is still at beginning stage.  
