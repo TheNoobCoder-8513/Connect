@@ -1,6 +1,6 @@
 ## Connect
 
-Connect is a GUI phonebook app, made for linux Opearting systems, which can be used to store details about your contacts seamlessly.  
+Connect is a GUI phonebook app, made for linux operating system, which can be used to store details about your contacts seamlessly.  
   
 The project is still at beginning stage.  
 It is a part of my learning journey of popular UI library for C GUI development, GTK.  
